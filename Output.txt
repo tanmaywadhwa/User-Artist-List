@@ -1,0 +1,202 @@
+Kasabian AND Muse
+Muse AND Kasabian
+Muse AND Death Cab for Cutie
+Muse AND The Cure
+Muse AND Paramore
+Muse AND Franz Ferdinand
+Muse AND Arctic Monkeys
+Muse AND System of a Down
+Muse AND Green Day
+Muse AND Radiohead
+Muse AND Snow Patrol
+Muse AND The Kooks
+Muse AND The Strokes
+Muse AND Linkin Park
+Muse AND Pink Floyd
+Muse AND Foo Fighters
+Muse AND Incubus
+Muse AND Kings of Leon
+Muse AND MGMT
+Muse AND 30 Seconds to Mars
+Muse AND Coldplay
+Muse AND Nirvana
+Muse AND Oasis
+Muse AND The Killers
+Muse AND Metallica
+Muse AND Placebo
+Muse AND Queen
+Muse AND Red Hot Chili Peppers
+Muse AND The Beatles
+Muse AND Lady Gaga
+Death Cab for Cutie AND Muse
+Death Cab for Cutie AND Radiohead
+Death Cab for Cutie AND The Beatles
+The Cure AND Muse
+The Cure AND Radiohead
+The Cure AND The Smiths
+Lily Allen AND Lady Gaga
+Britney Spears AND Lady Gaga
+Paramore AND Muse
+Paramore AND Lady Gaga
+Franz Ferdinand AND Muse
+Franz Ferdinand AND Arctic Monkeys
+Franz Ferdinand AND Radiohead
+Franz Ferdinand AND The Beatles
+Arctic Monkeys AND Muse
+Arctic Monkeys AND Franz Ferdinand
+Arctic Monkeys AND Radiohead
+Arctic Monkeys AND The Kooks
+Arctic Monkeys AND The Strokes
+Arctic Monkeys AND Kings of Leon
+Arctic Monkeys AND MGMT
+Arctic Monkeys AND Coldplay
+Arctic Monkeys AND Nirvana
+Arctic Monkeys AND Oasis
+Arctic Monkeys AND The Killers
+Arctic Monkeys AND Placebo
+Arctic Monkeys AND The Beatles
+Ke$ha AND Lady Gaga
+System of a Down AND Muse
+System of a Down AND Metallica
+Green Day AND Muse
+Radiohead AND Muse
+Radiohead AND Death Cab for Cutie
+Radiohead AND The Cure
+Radiohead AND Franz Ferdinand
+Radiohead AND Arctic Monkeys
+Radiohead AND Pearl Jam
+Radiohead AND The Strokes
+Radiohead AND Pink Floyd
+Radiohead AND Foo Fighters
+Radiohead AND Kings of Leon
+Radiohead AND Coldplay
+Radiohead AND Nirvana
+Radiohead AND Oasis
+Radiohead AND The Killers
+Radiohead AND Placebo
+Radiohead AND The Smiths
+Radiohead AND Red Hot Chili Peppers
+Radiohead AND The Beatles
+Radiohead AND David Bowie
+Pearl Jam AND Radiohead
+Pearl Jam AND Nirvana
+Snow Patrol AND Muse
+The Kooks AND Muse
+The Kooks AND Arctic Monkeys
+The Strokes AND Muse
+The Strokes AND Arctic Monkeys
+The Strokes AND Radiohead
+The Strokes AND The Killers
+The Strokes AND The Beatles
+Linkin Park AND Muse
+Led Zeppelin AND Pink Floyd
+Led Zeppelin AND The Beatles
+Pink Floyd AND Muse
+Pink Floyd AND Radiohead
+Pink Floyd AND Led Zeppelin
+Pink Floyd AND The Beatles
+Foo Fighters AND Muse
+Foo Fighters AND Radiohead
+Foo Fighters AND Nirvana
+Foo Fighters AND Red Hot Chili Peppers
+Incubus AND Muse
+Kings of Leon AND Muse
+Kings of Leon AND Arctic Monkeys
+Kings of Leon AND Radiohead
+Kings of Leon AND Coldplay
+Kings of Leon AND The Killers
+MGMT AND Muse
+MGMT AND Arctic Monkeys
+MGMT AND The Beatles
+The Rolling Stones AND The Beatles
+30 Seconds to Mars AND Muse
+Coldplay AND Muse
+Coldplay AND Arctic Monkeys
+Coldplay AND Radiohead
+Coldplay AND Kings of Leon
+Coldplay AND Nirvana
+Coldplay AND Oasis
+Coldplay AND The Killers
+Coldplay AND Placebo
+Coldplay AND Red Hot Chili Peppers
+Coldplay AND The Beatles
+Coldplay AND Lady Gaga
+Nirvana AND Muse
+Nirvana AND Arctic Monkeys
+Nirvana AND Radiohead
+Nirvana AND Pearl Jam
+Nirvana AND Foo Fighters
+Nirvana AND Coldplay
+Nirvana AND Oasis
+Nirvana AND Placebo
+Nirvana AND Red Hot Chili Peppers
+Nirvana AND The Beatles
+Oasis AND Muse
+Oasis AND Arctic Monkeys
+Oasis AND Radiohead
+Oasis AND Coldplay
+Oasis AND Nirvana
+Oasis AND The Killers
+Oasis AND The Beatles
+The Killers AND Muse
+The Killers AND Arctic Monkeys
+The Killers AND Radiohead
+The Killers AND The Strokes
+The Killers AND Kings of Leon
+The Killers AND Coldplay
+The Killers AND Oasis
+The Killers AND Placebo
+The Killers AND Red Hot Chili Peppers
+The Killers AND The Beatles
+Iron Maiden AND Metallica
+Metallica AND Muse
+Metallica AND System of a Down
+Metallica AND Iron Maiden
+Rihanna AND Lady Gaga
+Placebo AND Muse
+Placebo AND Arctic Monkeys
+Placebo AND Radiohead
+Placebo AND Coldplay
+Placebo AND Nirvana
+Placebo AND The Killers
+Queen AND Muse
+Queen AND The Beatles
+The Smiths AND The Cure
+The Smiths AND Radiohead
+The Smiths AND The Beatles
+Red Hot Chili Peppers AND Muse
+Red Hot Chili Peppers AND Radiohead
+Red Hot Chili Peppers AND Foo Fighters
+Red Hot Chili Peppers AND Coldplay
+Red Hot Chili Peppers AND Nirvana
+Red Hot Chili Peppers AND The Killers
+Red Hot Chili Peppers AND The Beatles
+The Beatles AND Muse
+The Beatles AND Death Cab for Cutie
+The Beatles AND Franz Ferdinand
+The Beatles AND Arctic Monkeys
+The Beatles AND Radiohead
+The Beatles AND The Strokes
+The Beatles AND Led Zeppelin
+The Beatles AND Pink Floyd
+The Beatles AND MGMT
+The Beatles AND The Rolling Stones
+The Beatles AND Coldplay
+The Beatles AND Nirvana
+The Beatles AND Oasis
+The Beatles AND The Killers
+The Beatles AND Queen
+The Beatles AND The Smiths
+The Beatles AND Red Hot Chili Peppers
+The Beatles AND David Bowie
+The Beatles AND Lady Gaga
+David Bowie AND Radiohead
+David Bowie AND The Beatles
+Lady Gaga AND Muse
+Lady Gaga AND Lily Allen
+Lady Gaga AND Britney Spears
+Lady Gaga AND Paramore
+Lady Gaga AND Ke$ha
+Lady Gaga AND Coldplay
+Lady Gaga AND Rihanna
+Lady Gaga AND The Beatles
